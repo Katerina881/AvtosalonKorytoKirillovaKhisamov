@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorytoModel", "KorytoModel\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorytoService", "KorytoService\KorytoService.csproj", "{EFDFECF8-1F1C-4DAD-ADD3-F2A5959E9A2A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorytoView", "KorytoView\KorytoView.csproj", "{D05B86BD-5BD3-4113-B561-0B5659F2FA34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KorytoDataBase", "KorytoDataBase\KorytoDataBase.csproj", "{D4360495-7D3C-45F2-92AE-14E45915A307}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EFDFECF8-1F1C-4DAD-ADD3-F2A5959E9A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFDFECF8-1F1C-4DAD-ADD3-F2A5959E9A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFDFECF8-1F1C-4DAD-ADD3-F2A5959E9A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05B86BD-5BD3-4113-B561-0B5659F2FA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05B86BD-5BD3-4113-B561-0B5659F2FA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05B86BD-5BD3-4113-B561-0B5659F2FA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05B86BD-5BD3-4113-B561-0B5659F2FA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4360495-7D3C-45F2-92AE-14E45915A307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4360495-7D3C-45F2-92AE-14E45915A307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4360495-7D3C-45F2-92AE-14E45915A307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4360495-7D3C-45F2-92AE-14E45915A307}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
